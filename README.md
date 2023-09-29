@@ -14,5 +14,6 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 
-
+# Screenshots
+![image](https://github.com/LynnKamau/InnoLibraries/assets/98352438/c40bdf2b-73bd-4563-a9e4-8fc499f34a0d)
 
